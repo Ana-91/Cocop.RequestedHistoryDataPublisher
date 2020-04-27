@@ -1,0 +1,117 @@
+This license has been **modified from** the BSD-3-Clause license
+(conditions 4-8 were added).
+
+*******************************************************************************
+
+COCOP Requested History Data Publisher: Copyright © 2020 Tampere University.
+All Rights Reserved.
+
+OGC Filter Encoding 2.0 Encoding Standard
+Ref no: OGC 09-026r2
+Version: 2.0.3
+Document type: OGC(r) Implementation Standard 
+Document stage: Approved version 2.0.3
+Copyright (c) 2014 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/filter
+
+OpenGIS(r) Geography Markup Language (GML) Encoding Standard
+Ref no: OGC 07-036
+Version: 3.2.1
+Document type: OpenGIS(r) Standard
+Document stage: Final
+Copyright (c) 2007 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/gml
+
+Observations and Measurements - XML Implementation
+Ref no: OGC 10-025r1
+Version: 2.0
+Document type: OpenGIS(r) Implementation standard
+Document stage: Approved
+Copyright (c) 2011 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/om
+
+OGC(r) Sensor Observation Service Interface Standard
+Ref no: OGC 12-006
+Version: 2.0
+Document type: OGC Implementation Standard
+Document stage: Approved
+Copyright (c) 2012 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/sos
+
+OGC(r) SWE Common Data Model Encoding Standard
+Ref no: OGC 08-094r1
+Version: 2.0.0
+Document type: OGC(r) Publicly Available Standard
+Document stage: Approved
+Copyright (c) 2011 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/swecommon
+
+OpenGIS(r) SWE Service Model Implementation Standard
+Ref no: OGC 09-001
+Version: 2.0
+Document type: OpenGIS(r) Standard
+Document stage: Approved
+Copyright (c) 2011 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/swes
+
+TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations and 
+Measurements
+Ref no: OGC 15-042r3
+Version: 1.0
+Document type: OGC(r) Standard
+Document stage: Approved
+Copyright (c) 2016 Open Geospatial Consortium, Inc. All Rights Reserved.
+https://www.ogc.org/standards/tsml
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+4. This software is a derivative work from standards copyrighted to the Open
+Geospatial Consortium, Inc. (OGC(r)). If you use, modify and/or distribute this
+software, you agree to follow any legal conditions required by the OGC. If any
+instance considers that the OGC-related conditions referred to in this license
+are insufficient, you are held responsible for any sanctions that can result
+from your use, modification and/or distribution of this software.
+
+5. OGC expects you to agree the following conditions: (1) Copyright Notice and
+Disclaimers at https://www.ogc.org/ogc/legal ; (2) OGC(r) Document Notice; the
+most recent version is at https://www.ogc.org/ogc/document and another enclosed
+in file "ogc_document_notice.txt"; (3) OGC(r) Software Notice; the most recent
+version is at https://www.ogc.org/ogc/software and another enclosed in file 
+"ogc_software_notice.txt"; (4) the license of each referred OGC standard.
+
+6. This software has *not* been created by the OGC, and such claims are
+explicitly prohibited by OGC.
+
+7. This software has *not* been certified by the OGC for any compliance with
+the standards or related specifications, such as XML schemata, published by the
+OGC, and such claims are explicitly prohibited by OGC.
+
+8. Open Geospatial Consortium, the OGC logos, and the marks OGC, OPENGIS,
+OPEN GIS, OPENGIS.NET, OGCNETWORK, OGC Network, OpenLS, Open Location Services,
+OGCA, OpenGeospatial Consortium (Australia), Ltd, OGCE, Open Geospatial
+Consortium (Europe), Ltd, OWS, OGC Sensor Web Services, OGC Web Services, are 
+registered trademarks or service marks or trademarks or service marks of Open
+Geospatial Consortium in the United States and in other countries.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
